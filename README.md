@@ -42,3 +42,4 @@ File pickers hide dotfiles, so add it directly on GitHub:
 3. Click **New app**
 4. Select your repo, branch `main`, main file path `app.py`
 5. Click **Deploy**
+6. https://customer-segmentation-app-fgqx42qmnsqglh5wglbsv6.streamlit.app/
